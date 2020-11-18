@@ -60,23 +60,37 @@ a:hover{
 }
 .titulos{
 	background-color: #FF1616;
+        color: #CCCFFF;
 	height: 30px;
 	width: 100%;
         text-align: center;
+        font-family: Verdana;
+}
+.contacto{
+	background-color: #454542;
+        color: #CCCFFF;
+	height: 30px;
+	width: 100%;
+        text-align: center;
+        font-family: Verdana;
+}
 .seccion{
 	background-color: #ffffff;
 	height: 300px;
 	width: 100%;
         text-align: center;
 }
-.SNEAKERS{
-        color: #CCCFFF;
-	width: 1000%
-	height: 1000px;
+.sneakers{
+	background-color: #F7FA00;
+        color: #454542;
+	height: 30px;
+	width: 100%;
+        text-align: center;
 }
 .titulares{
-	color: #ffffff;
+	color: #000000;
 	font-size: 35px;
 	text-transform: uppercase;
         text-align: center;
+        font-family: forte;
 }
